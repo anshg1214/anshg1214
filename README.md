@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=anshg1214)
+<!--
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshg1214&show_icons=true&theme=gotham" alt="Ansh Goyal GitHub Stats" />
+</details>
+-->
